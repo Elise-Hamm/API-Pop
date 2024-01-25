@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "Ryan",
+        "picture": "https://ibb.co/yBLRqRF",
+        "text": "Développeur le jour et Gameur le nuit, je suis comme batman mais en mieux.",
+        "movie": "Je suis une légende",
+        "series": "Mr. Robot",
+        "quote": "Donnez un masque à un homme, et vous verrez sa vraie personnalité. - Le Joker/Batman",
+        "project": "Adopte une chausette",
+        "hackathon": "Star duck"
+      },
+      {
+        "id": 2,
+        "name": "Daniela",
+        "picture": "https://ibb.co/ZhKs70n",
+        "text": "Chasseuse de bugs, détective du code. Pourrait être une brillante Sherlock, mais au lieu de la loupe, j'ai un écran . Chaque ligne de code est une piste, chaque bug un mystère résolu.",
+        "movie": "Interstellar",
+        "series": "How I met your mother, Game of Thrones",
+        "quote": "Que la Force soit avec toi, à jamais. - Obi Wan Kenobi",
+        "project": "123 Santé",
+        "hackathon": "Star Love"
+      },
+      {
+        "id": 3,
+        "name": "Sabrina",
+        "picture": "https://ibb.co/JQN7yC1",
+        "text": "De fond en comble, des bugs, aux erreurs, aux galères, PopFlixCorn est là pour les pulvériser.",
+        "movie": "Joker / Le Seigneur des Anneaux / Supercondriaque",
+        "series": "Game of Thrones / How I met Your Mother / The Big Bang Theory / The Young Sheldon / Mon oncle Charlie",
+        "quote": "Si on veut obtenir quelque chose que l'on n'a jamais eu, il faut tenter quelque chose que l'on n'a jamais fait. - Pericles ",
+        "project": "123 Santé",
+        "hackathon": "Star Love"
+      },
+      {
+        "id": 4,
+        "name": "Cédric",
+        "picture": "https://ibb.co/n1CqDyy",
+        "text": "Le sport c'est la vie. la force tranquille.",
+        "movie": "Je suis une légende",
+        "series": "Breaking bad / Game of trhones",
+        "quote": "La résilience n'est pas seulement la capacité de rebondir après l'adversité, mais aussi la force de se reconstruire de manière plus forte, plus sage et plus résolue.",
+        "project": "123 Santé",
+        "hackathon": "Star Duck"
+      },
+      {
+        "id": 5,
+        "name": "Pauline",
+        "picture": "https://ibb.co/CnS9nNv",
+        "text": "De la collecte de fonds à la traque des bugs, en pleine transition vers le monde du code !",
+        "movie": "Eternal Sunshine of the Spotless Mind",
+        "series": "Mindhunter",
+        "quote": "On peut tromper une fois mille personne mais on peut pas tromper mille fois une personne. - La Cité de la Peur",
+        "project": "AI Museum",
+        "hackathon": "Que l'amour soit avec toi"
+      },
+      {
+        "id": 6,
+        "name": "Yohan",
+        "picture": "https://ibb.co/L5WGtpz",
+        "text": "Padawan du code et voyageur intergalactique du développement. Que la Force du code soit avec vous !",
+        "movie": "Star wars 3: the revenge of the sith",
+        "series": "Star Wars the clone wars",
+        "quote": "Hello there! - Obi Wan Kenobi",
+        "project": "AI Museum",
+        "hackathon": "Star Duck"
+      },
+      {
+        "id": 7,
+        "name": "Elise",
+        "picture": "https://ibb.co/5YBZR6g",
+        "text": "Codeuse intrépide, naviguant entre lignes et défiant les bugs, je façonne des programmes pour dompter le chaos numérique.",
+       "movie": "Annie",
+       "series": "Big Bang Theory / Young Sheldon",
+        "quote": "Vous êtes plus courageux que vous ne le croyez, plus fort qu'il n'y paraît et plus intelligent que vous ne le pensez. - Winnie l'Ourson",
+        "project": "Crime Pas-Fais",
+        "hackathon": "Que l'amour soit avec toi"
+      }
+]
