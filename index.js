@@ -1,9 +1,10 @@
 const express = require('express');
+const cors = require('cors');
 const app = express();
 const port = 4748;
 const About = require('./serveur.json');
 
-app.use(express.json());
+app.use(cors());
 
 app.get("/api/user",(req, res) => 
     {res.json(About)}
